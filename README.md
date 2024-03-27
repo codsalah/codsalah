@@ -143,13 +143,8 @@
 	<a href="https://www.linkedin.com/in/salah-muhammad-65287b243"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-### 🐍 Eating Snake
-<p align="center">
-  <a href="#"><img alt="Eating Snake" src="https://img.shields.io/badge/Eating%20Snake-%23888888.svg?style=plastic&logo=snake&logoColor=white"></a>
-</p>
-
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codsalah&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codsalah&label=Profile%20views&color=0e75b6&style=flat" alt="codslah" /> </p>
 
 ------
 

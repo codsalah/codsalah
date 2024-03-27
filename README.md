@@ -8,7 +8,7 @@
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data Deep learning projects**<br>
 ✔ Feel free to ask me anything you want! I'll respond ASAP 😉<br>
-✔ Fun fact: *I enjoy learning new things every day!* 😎<br><br>
+✔ Fun fact: I'm as hungry for knowledge as a kid in a candy store! 🍬💡<br><br>
 
 <hr/>
 <h5 align="center">I'm a Computer Engineering student at Kafr Elsheik University deeply passionate about coding, machine learning, and deep learning. I thrive on innovation and experimentation, constantly seeking new challenges to expand my skills. Beyond academics, I love connecting with others, exchanging ideas, and spreading positivity. Let's collaborate and create something extraordinary!.</h4>

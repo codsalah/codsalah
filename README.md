@@ -99,7 +99,7 @@
     <a href="#"><img alt="Codeblock" src="https://img.shields.io/badge/codeblocks%20-%232C2255.svg?&style=plastic&logo=codeblocks%20ide&logoColor=white" /></a>
 </p>
 
-### #️⃣ Database
+### 👉 Database
 <p align="center">
   &emsp;
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=plastic&logo=mysql&logoColor=white"></a>

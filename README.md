@@ -121,19 +121,6 @@
 
 <br/>
 
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codsalah&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="codsalah" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-<br/>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">

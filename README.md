@@ -13,9 +13,6 @@
 <hr/>
 <h5 align="center">I'm a Computer Engineering student deeply passionate about coding, Data Engineering, and Deep learning. I thrive on innovation and experimentation, constantly seeking new challenges to expand my skills. Beyond academics, I love connecting with others, exchanging ideas, and spreading positivity. Let's collaborate and create something extraordinary!.</h4>
 
-## 🔥 Streak Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codsalah&theme=dark" alt="GitHub Streak" /></a>
-## 🛠️ My Skills
 
 ### 👉 Programming languages
 
